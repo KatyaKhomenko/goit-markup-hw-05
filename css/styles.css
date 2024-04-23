@@ -636,7 +636,11 @@ background-color: #404bbf;
 }
 
 .modal-form{
-    position: relative;
-    
+    position: absolute;
+    top: 112px;
+}
+
+.modal-input {
+    width: 360px;
     
 }
