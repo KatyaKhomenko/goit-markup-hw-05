@@ -660,3 +660,12 @@ background-color: #404bbf;
 .modal-input:focus{
     border: 1px solid #4d5ae5;
 }
+
+.modal-label {
+    display: block;
+    margin-bottom: 8px;
+    font-size: 12px;
+    line-height: 1.16667;
+    letter-spacing: 0.04em;
+    color: #8e8f99;
+}
