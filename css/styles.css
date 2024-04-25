@@ -647,13 +647,21 @@ background-color: #404bbf;
     
 }
 
+.modal-field {
+margin-bottom: 8px;
+}
+
+.modal-input-wrap {
+    position: relative;
+}
+
 .modal-input {
     width: 100%;
     border: 1px solid rgba(46, 47, 66, 0.4);
     border-radius: 4px;
     width: 360px;
     height: 40px;
-    margin-bottom: 8px;
+    padding-left: 38px;
 }
 
 .modal-input:hover,
@@ -668,4 +676,11 @@ background-color: #404bbf;
     line-height: 1.16667;
     letter-spacing: 0.04em;
     color: #8e8f99;
+}
+
+.modal-label-icon {
+    position: absolute;
+    left: 16px;
+    top: 50%;
+    transform: translateY(-50%);
 }
