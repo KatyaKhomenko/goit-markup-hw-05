@@ -584,6 +584,10 @@ background-color: #404bbf;
 
 .footer-form {
     display: flex;
+
+}
+
+.footer-label {
     gap: 24px;
 }
 
@@ -599,6 +603,7 @@ background-color: #404bbf;
     letter-spacing: 0.04em;
     color: #fff;
     box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+    padding-left: 16px;
 }
 
 .footer-btn {
@@ -615,6 +620,8 @@ background-color: #404bbf;
     color: #fff;
     border-radius: 4px;
     padding: 8px 24px;
+    cursor: pointer;
+    border: none;
     background: #4d5ae5;
 }
 
