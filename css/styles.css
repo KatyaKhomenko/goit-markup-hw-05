@@ -671,9 +671,9 @@ margin-bottom: 8px;
 
 .modal-label {
     display: block;
-    margin-bottom: 8px;
+    margin-bottom: 4        px;
     font-size: 12px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.04em;
     color: #8e8f99;
 }
